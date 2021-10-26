@@ -1,6 +1,6 @@
 # Python_Flask | Make A Python Website Quickly Using Flask 
 
-This is to create a simple website using Python as fast as possible using the flask module which is a web framework for Python.
+This is to create a simple website using Python as fast as possible using the Flask module which is a web framework for Python.
 
 ..........
 
@@ -10,4 +10,4 @@ This is to create a simple website using Python as fast as possible using the fl
 
 ## Languages / Covered topics
 + Flak, Python
-+ LEARN: Jinja
++ LEARN: Jinja(Web template engine for the Python)
